@@ -4,8 +4,8 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * MarkdownParse Katex for Typecho (Modified by memset0 & Snowflake_Pink)
  * 
  * @package MardownKatex
- * @author zyuzhi & memset0
- * @version 1.0.1.233
+ * @author zyuzhi & memset0 & Snowflake_Pink
+ * @version 1.1
  * @link https://blog.zyuzhi.me
  */
 class MarkdownKatex_Plugin implements Typecho_Plugin_Interface
